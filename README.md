@@ -14,6 +14,3 @@ Areas:<br>
 - MVP Development<br>
 - Chrome Extensions<br>
 - Blockchain Integrations<br>
-
-Tags:<br>
-#AutomationSystems #WorkflowAutomation #ProcessAutomation #BusinessAutomation #InternalTools #OperationalSystems #WebDevelopment #TelegramBots #BrowserAutomation #APIDevelopment #DataProcessing #WebScraping #AIIntegration #MVPDevelopment #ChromeExtensions #Blockchain #Python #StartupDevelopment #AutomationDeveloper #BusinessSystems
