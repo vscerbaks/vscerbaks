@@ -1,16 +1,17 @@
-## Hi there 👋
+Business systems developer with 4+ years of experience building automation systems, internal tools, and workflow solutions.
 
-<!--
-**vscerbaks/vscerbaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My goal is not just to build systems that work technically, but to create solutions that genuinely simplify business operations.
 
-Here are some ideas to get you started:
+What I do
+– Workflow & process automation
+– Internal tools for business operations
+– MVP development to test ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects include:
+– Marketplace monitoring systems
+– Telegram bots and automation
+– Data collection and processing systems
+– AI integrations and workflow tools
+– Operational dashboards and admin systems
+
+Focused on practical solutions, clear communication, and long-term reliability.
