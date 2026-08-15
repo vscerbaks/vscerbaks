@@ -1,6 +1,7 @@
-#### Automation Systems | Workflow Automation & MVP Development
+#### Custom Software | Workflow Automation | Internal Tools & MVPs
 
 #### My goal is not just to build systems that work technically, but to create solutions that genuinely simplify business operations and reduce manual work.
+#### Beyond development, I can take ownership of a product and coordinate the people involved in building it.
 
 Areas:<br>
 - Workflow & Process Automation<br>
